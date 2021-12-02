@@ -1,0 +1,9 @@
+# Mac OS X meta files
+.DS_Store
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.synctex.gz
+
